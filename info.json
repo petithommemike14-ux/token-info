@@ -1,0 +1,11 @@
+{
+  "name": "Saphir Coin",
+  "symbol": "SAC",
+  "description": "Saphir Coin est une monnaie numérique conçue pour faciliter les échanges dans divers secteurs, alliant sécurité, rapidité et accessibilité.",
+  "image": "https://i.imgur.com/h6sJlY9.jpeg",
+  "website": "https://saphircoin.org",
+  "social": {
+    "twitter": "https://twitter.com/saphircoin",
+    "discord": "https://discord.gg/saphircoin"
+  }
+}
